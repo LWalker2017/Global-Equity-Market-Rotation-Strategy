@@ -1,0 +1,1960 @@
+Code,Sector,Market
+AAPL UW Equity,Technology,UW
+AXP UN Equity,Financial,UN
+BA UN Equity,Industrial,UN
+CAT UN Equity,Industrial,UN
+CSCO UW Equity,Communications,UW
+CVX UN Equity,Energy,UN
+DIS UN Equity,Communications,UN
+GS UN Equity,Financial,UN
+HD UN Equity,"Consumer, Cyclical",UN
+IBM UN Equity,Technology,UN
+INTC UW Equity,Technology,UW
+JNJ UN Equity,"Consumer, Non-cyclical",UN
+JPM UN Equity,Financial,UN
+KO UN Equity,"Consumer, Non-cyclical",UN
+MCD UN Equity,"Consumer, Cyclical",UN
+MMM UN Equity,Industrial,UN
+MRK UN Equity,"Consumer, Non-cyclical",UN
+MSFT UW Equity,Technology,UW
+NKE UN Equity,"Consumer, Cyclical",UN
+PFE UN Equity,"Consumer, Non-cyclical",UN
+PG UN Equity,"Consumer, Non-cyclical",UN
+TRV UN Equity,Financial,UN
+UNH UN Equity,"Consumer, Non-cyclical",UN
+UTX UN Equity,Industrial,UN
+V UN Equity,Financial,UN
+VZ UN Equity,Communications,UN
+WBA UW Equity,"Consumer, Cyclical",UW
+WMT UN Equity,"Consumer, Cyclical",UN
+XOM UN Equity,Energy,UN
+ABBV UN Equity,"Consumer, Non-cyclical",UN
+ABT UN Equity,"Consumer, Non-cyclical",UN
+ACN UN Equity,Technology,UN
+ADBE UW Equity,Technology,UW
+AGN UN Equity,"Consumer, Non-cyclical",UN
+AIG UN Equity,Financial,UN
+ALL UN Equity,Financial,UN
+AMGN UW Equity,"Consumer, Non-cyclical",UW
+AMZN UW Equity,Communications,UW
+BAC UN Equity,Financial,UN
+BIIB UW Equity,"Consumer, Non-cyclical",UW
+BK UN Equity,Financial,UN
+BKNG UW Equity,Communications,UW
+BLK UN Equity,Financial,UN
+BMY UN Equity,"Consumer, Non-cyclical",UN
+BRK/B UN Equity,Financial,UN
+C UN Equity,Financial,UN
+CELG UW Equity,"Consumer, Non-cyclical",UW
+CHTR UW Equity,Communications,UW
+CL UN Equity,"Consumer, Non-cyclical",UN
+CMCSA UW Equity,Communications,UW
+COF UN Equity,Financial,UN
+COP UN Equity,Energy,UN
+COST UW Equity,"Consumer, Cyclical",UW
+CVS UN Equity,"Consumer, Non-cyclical",UN
+DD UN Equity,Basic Materials,UN
+DHR UN Equity,"Consumer, Non-cyclical",UN
+DUK UN Equity,Utilities,UN
+EMR UN Equity,Industrial,UN
+F UN Equity,"Consumer, Cyclical",UN
+FB UW Equity,Communications,UW
+FDX UN Equity,Industrial,UN
+GD UN Equity,Industrial,UN
+GE UN Equity,Industrial,UN
+GILD UW Equity,"Consumer, Non-cyclical",UW
+GM UN Equity,"Consumer, Cyclical",UN
+GOOG UW Equity,Communications,UW
+GOOGL UW Equity,Communications,UW
+HON UN Equity,Industrial,UN
+KHC UW Equity,"Consumer, Non-cyclical",UW
+KMI UN Equity,Energy,UN
+LLY UN Equity,"Consumer, Non-cyclical",UN
+LMT UN Equity,Industrial,UN
+LOW UN Equity,"Consumer, Cyclical",UN
+MA UN Equity,Financial,UN
+MDLZ UW Equity,"Consumer, Non-cyclical",UW
+MDT UN Equity,"Consumer, Non-cyclical",UN
+MET UN Equity,Financial,UN
+MO UN Equity,"Consumer, Non-cyclical",UN
+MS UN Equity,Financial,UN
+NEE UN Equity,Utilities,UN
+NFLX UW Equity,Communications,UW
+NVDA UW Equity,Technology,UW
+ORCL UN Equity,Technology,UN
+OXY UN Equity,Energy,UN
+PM UN Equity,"Consumer, Non-cyclical",UN
+PYPL UW Equity,"Consumer, Non-cyclical",UW
+QCOM UW Equity,Technology,UW
+RTN UN Equity,Industrial,UN
+SBUX UW Equity,"Consumer, Cyclical",UW
+SLB UN Equity,Energy,UN
+SO UN Equity,Utilities,UN
+SPG UN Equity,Financial,UN
+T UN Equity,Communications,UN
+TGT UN Equity,"Consumer, Cyclical",UN
+TXN UW Equity,Technology,UW
+UNP UN Equity,Industrial,UN
+UPS UN Equity,Industrial,UN
+USB UN Equity,Financial,UN
+WFC UN Equity,Financial,UN
+A UN Equity,Industrial,UN
+AAL UW Equity,"Consumer, Cyclical",UW
+AAP UN Equity,"Consumer, Cyclical",UN
+ABC UN Equity,"Consumer, Non-cyclical",UN
+ABMD UW Equity,"Consumer, Non-cyclical",UW
+ADI UW Equity,Technology,UW
+ADM UN Equity,"Consumer, Non-cyclical",UN
+ADP UW Equity,"Consumer, Non-cyclical",UW
+ADS UN Equity,Financial,UN
+ADSK UW Equity,Technology,UW
+AEE UN Equity,Utilities,UN
+AEP UN Equity,Utilities,UN
+AES UN Equity,Utilities,UN
+AFL UN Equity,Financial,UN
+AIV UN Equity,Financial,UN
+AIZ UN Equity,Financial,UN
+AJG UN Equity,Financial,UN
+AKAM UW Equity,Technology,UW
+ALB UN Equity,Basic Materials,UN
+ALGN UW Equity,"Consumer, Non-cyclical",UW
+ALK UN Equity,"Consumer, Cyclical",UN
+ALLE UN Equity,Industrial,UN
+ALXN UW Equity,"Consumer, Non-cyclical",UW
+AMAT UW Equity,Technology,UW
+AMD UW Equity,Technology,UW
+AME UN Equity,Industrial,UN
+AMG UN Equity,Financial,UN
+AMP UN Equity,Financial,UN
+AMT UN Equity,Financial,UN
+ANET UN Equity,Communications,UN
+ANSS UW Equity,Technology,UW
+ANTM UN Equity,"Consumer, Non-cyclical",UN
+AON UN Equity,Financial,UN
+AOS UN Equity,Industrial,UN
+APA UN Equity,Energy,UN
+APD UN Equity,Basic Materials,UN
+APH UN Equity,Industrial,UN
+APTV UN Equity,"Consumer, Cyclical",UN
+ARE UN Equity,Financial,UN
+ARNC UN Equity,Industrial,UN
+ATO UN Equity,Utilities,UN
+ATVI UW Equity,Technology,UW
+AVB UN Equity,Financial,UN
+AVGO UW Equity,Technology,UW
+AVY UN Equity,"Consumer, Non-cyclical",UN
+AWK UN Equity,Utilities,UN
+AZO UN Equity,"Consumer, Cyclical",UN
+BAX UN Equity,"Consumer, Non-cyclical",UN
+BBT UN Equity,Financial,UN
+BBY UN Equity,"Consumer, Cyclical",UN
+BDX UN Equity,"Consumer, Non-cyclical",UN
+BEN UN Equity,Financial,UN
+BF/B UN Equity,"Consumer, Non-cyclical",UN
+BHGE UN Equity,Energy,UN
+BLL UN Equity,Industrial,UN
+BR UN Equity,Technology,UN
+BSX UN Equity,"Consumer, Non-cyclical",UN
+BWA UN Equity,"Consumer, Cyclical",UN
+BXP UN Equity,Financial,UN
+CAG UN Equity,"Consumer, Non-cyclical",UN
+CAH UN Equity,"Consumer, Non-cyclical",UN
+CB UN Equity,Financial,UN
+CBRE UN Equity,Financial,UN
+CBS UN Equity,Communications,UN
+CCI UN Equity,Financial,UN
+CCL UN Equity,"Consumer, Cyclical",UN
+CDNS UW Equity,Technology,UW
+CDW UW Equity,Communications,UW
+CE UN Equity,Basic Materials,UN
+CERN UW Equity,Technology,UW
+CF UN Equity,Basic Materials,UN
+CFG UN Equity,Financial,UN
+CHD UN Equity,"Consumer, Non-cyclical",UN
+CHRW UW Equity,Industrial,UW
+CI UN Equity,"Consumer, Non-cyclical",UN
+CINF UW Equity,Financial,UW
+CLX UN Equity,"Consumer, Non-cyclical",UN
+CMA UN Equity,Financial,UN
+CME UW Equity,Financial,UW
+CMG UN Equity,"Consumer, Cyclical",UN
+CMI UN Equity,Industrial,UN
+CMS UN Equity,Utilities,UN
+CNC UN Equity,"Consumer, Non-cyclical",UN
+CNP UN Equity,Utilities,UN
+COG UN Equity,Energy,UN
+COO UN Equity,"Consumer, Non-cyclical",UN
+COTY UN Equity,"Consumer, Non-cyclical",UN
+CPB UN Equity,"Consumer, Non-cyclical",UN
+CPRI UN Equity,"Consumer, Cyclical",UN
+CPRT UW Equity,"Consumer, Cyclical",UW
+CRM UN Equity,Technology,UN
+CSX UW Equity,Industrial,UW
+CTAS UW Equity,"Consumer, Non-cyclical",UW
+CTL UN Equity,Communications,UN
+CTSH UW Equity,Technology,UW
+CTXS UW Equity,Technology,UW
+CXO UN Equity,Energy,UN
+D UN Equity,Utilities,UN
+DAL UN Equity,"Consumer, Cyclical",UN
+DE UN Equity,Industrial,UN
+DFS UN Equity,Financial,UN
+DG UN Equity,"Consumer, Cyclical",UN
+DGX UN Equity,"Consumer, Non-cyclical",UN
+DHI UN Equity,"Consumer, Cyclical",UN
+DISCA UW Equity,Communications,UW
+DISCK UW Equity,Communications,UW
+DISH UW Equity,Communications,UW
+DLR UN Equity,Financial,UN
+DLTR UW Equity,"Consumer, Cyclical",UW
+DOV UN Equity,Industrial,UN
+DRE UN Equity,Financial,UN
+DRI UN Equity,"Consumer, Cyclical",UN
+DTE UN Equity,Utilities,UN
+DVA UN Equity,"Consumer, Non-cyclical",UN
+DVN UN Equity,Energy,UN
+EA UW Equity,Technology,UW
+EBAY UW Equity,Communications,UW
+ECL UN Equity,Basic Materials,UN
+ED UN Equity,Utilities,UN
+EFX UN Equity,"Consumer, Non-cyclical",UN
+EIX UN Equity,Utilities,UN
+EL UN Equity,"Consumer, Non-cyclical",UN
+EMN UN Equity,Basic Materials,UN
+EOG UN Equity,Energy,UN
+EQIX UW Equity,Financial,UW
+EQR UN Equity,Financial,UN
+ES UN Equity,Utilities,UN
+ESS UN Equity,Financial,UN
+ETFC UW Equity,Financial,UW
+ETN UN Equity,Industrial,UN
+ETR UN Equity,Utilities,UN
+EVRG UN Equity,Utilities,UN
+EW UN Equity,"Consumer, Non-cyclical",UN
+EXPD UW Equity,Industrial,UW
+EXPE UW Equity,Communications,UW
+EXR UN Equity,Financial,UN
+FANG UW Equity,Energy,UW
+FAST UW Equity,"Consumer, Cyclical",UW
+FBHS UN Equity,Industrial,UN
+FCX UN Equity,Basic Materials,UN
+FE UN Equity,Utilities,UN
+FFIV UW Equity,Communications,UW
+FIS UN Equity,Technology,UN
+FISV UW Equity,Technology,UW
+FITB UW Equity,Financial,UW
+FLIR UW Equity,Industrial,UW
+FLS UN Equity,Industrial,UN
+FLT UN Equity,"Consumer, Non-cyclical",UN
+FMC UN Equity,Basic Materials,UN
+FRC UN Equity,Financial,UN
+FRT UN Equity,Financial,UN
+FTI UN Equity,Energy,UN
+FTNT UW Equity,Technology,UW
+FTV UN Equity,Industrial,UN
+GIS UN Equity,"Consumer, Non-cyclical",UN
+GL UN Equity,Financial,UN
+GLW UN Equity,Communications,UN
+GPC UN Equity,"Consumer, Cyclical",UN
+GPN UN Equity,"Consumer, Non-cyclical",UN
+GPS UN Equity,"Consumer, Cyclical",UN
+GRMN UW Equity,Industrial,UW
+GWW UN Equity,"Consumer, Cyclical",UN
+HAL UN Equity,Energy,UN
+HAS UW Equity,"Consumer, Cyclical",UW
+HBAN UW Equity,Financial,UW
+HBI UN Equity,"Consumer, Cyclical",UN
+HCA UN Equity,"Consumer, Non-cyclical",UN
+HCP UN Equity,Financial,UN
+HES UN Equity,Energy,UN
+HFC UN Equity,Energy,UN
+HIG UN Equity,Financial,UN
+HII UN Equity,Industrial,UN
+HLT UN Equity,"Consumer, Cyclical",UN
+HOG UN Equity,"Consumer, Cyclical",UN
+HOLX UW Equity,"Consumer, Non-cyclical",UW
+HP UN Equity,Energy,UN
+HPE UN Equity,Technology,UN
+HPQ UN Equity,Technology,UN
+HRB UN Equity,"Consumer, Non-cyclical",UN
+HRL UN Equity,"Consumer, Non-cyclical",UN
+HSIC UW Equity,"Consumer, Non-cyclical",UW
+HST UN Equity,Financial,UN
+HSY UN Equity,"Consumer, Non-cyclical",UN
+HUM UN Equity,"Consumer, Non-cyclical",UN
+ICE UN Equity,Financial,UN
+IDXX UW Equity,"Consumer, Non-cyclical",UW
+IEX UN Equity,Industrial,UN
+IFF UN Equity,Basic Materials,UN
+ILMN UW Equity,"Consumer, Non-cyclical",UW
+INCY UW Equity,"Consumer, Non-cyclical",UW
+INTU UW Equity,Technology,UW
+IP UN Equity,Basic Materials,UN
+IPG UN Equity,Communications,UN
+IPGP UW Equity,Technology,UW
+IQV UN Equity,"Consumer, Non-cyclical",UN
+IR UN Equity,Industrial,UN
+IRM UN Equity,Financial,UN
+ISRG UW Equity,"Consumer, Non-cyclical",UW
+IT UN Equity,"Consumer, Non-cyclical",UN
+ITW UN Equity,Industrial,UN
+IVZ UN Equity,Financial,UN
+JBHT UW Equity,Industrial,UW
+JCI UN Equity,Industrial,UN
+JEC UN Equity,Industrial,UN
+JKHY UW Equity,Technology,UW
+JNPR UN Equity,Communications,UN
+JWN UN Equity,"Consumer, Cyclical",UN
+K UN Equity,"Consumer, Non-cyclical",UN
+KEY UN Equity,Financial,UN
+KEYS UN Equity,Industrial,UN
+KIM UN Equity,Financial,UN
+KLAC UW Equity,Technology,UW
+KMB UN Equity,"Consumer, Non-cyclical",UN
+KMX UN Equity,"Consumer, Cyclical",UN
+KR UN Equity,"Consumer, Non-cyclical",UN
+KSS UN Equity,"Consumer, Cyclical",UN
+KSU UN Equity,Industrial,UN
+L UN Equity,Financial,UN
+LB UN Equity,"Consumer, Cyclical",UN
+LDOS UN Equity,Technology,UN
+LEG UN Equity,"Consumer, Cyclical",UN
+LEN UN Equity,"Consumer, Cyclical",UN
+LH UN Equity,"Consumer, Non-cyclical",UN
+LHX UN Equity,Industrial,UN
+LIN UN Equity,Basic Materials,UN
+LKQ UW Equity,"Consumer, Cyclical",UW
+LNC UN Equity,Financial,UN
+LRCX UW Equity,Technology,UW
+LUV UN Equity,"Consumer, Cyclical",UN
+LVS UN Equity,"Consumer, Cyclical",UN
+LW UN Equity,"Consumer, Non-cyclical",UN
+LYB UN Equity,Basic Materials,UN
+M UN Equity,"Consumer, Cyclical",UN
+MAA UN Equity,Financial,UN
+MAC UN Equity,Financial,UN
+MAR UW Equity,"Consumer, Cyclical",UW
+MAS UN Equity,Industrial,UN
+MCHP UW Equity,Technology,UW
+MCK UN Equity,"Consumer, Non-cyclical",UN
+MCO UN Equity,"Consumer, Non-cyclical",UN
+MGM UN Equity,"Consumer, Cyclical",UN
+MHK UN Equity,"Consumer, Cyclical",UN
+MKC UN Equity,"Consumer, Non-cyclical",UN
+MKTX UW Equity,"Consumer, Non-cyclical",UW
+MLM UN Equity,Industrial,UN
+MMC UN Equity,Financial,UN
+MNST UW Equity,"Consumer, Non-cyclical",UW
+MOS UN Equity,Basic Materials,UN
+MPC UN Equity,Energy,UN
+MRO UN Equity,Energy,UN
+MSCI UN Equity,Technology,UN
+MSI UN Equity,Communications,UN
+MTB UN Equity,Financial,UN
+MTD UN Equity,Industrial,UN
+MU UW Equity,Technology,UW
+MXIM UW Equity,Technology,UW
+MYL UW Equity,"Consumer, Non-cyclical",UW
+NBL UN Equity,Energy,UN
+NDAQ UW Equity,Financial,UW
+NEM UN Equity,Basic Materials,UN
+NI UN Equity,Utilities,UN
+NLSN UN Equity,"Consumer, Non-cyclical",UN
+NOC UN Equity,Industrial,UN
+NOV UN Equity,Energy,UN
+NRG UN Equity,Utilities,UN
+NSC UN Equity,Industrial,UN
+NTAP UW Equity,Technology,UW
+NTRS UW Equity,Financial,UW
+NUE UN Equity,Basic Materials,UN
+NVR UN Equity,"Consumer, Cyclical",UN
+NWS UW Equity,Communications,UW
+NWSA UW Equity,Communications,UW
+O UN Equity,Financial,UN
+OKE UN Equity,Energy,UN
+OMC UN Equity,Communications,UN
+ORLY UW Equity,"Consumer, Cyclical",UW
+PAYX UW Equity,Technology,UW
+PBCT UW Equity,Financial,UW
+PCAR UW Equity,"Consumer, Cyclical",UW
+PEG UN Equity,Utilities,UN
+PGR UN Equity,Financial,UN
+PH UN Equity,Industrial,UN
+PHM UN Equity,"Consumer, Cyclical",UN
+PKG UN Equity,Industrial,UN
+PKI UN Equity,Industrial,UN
+PLD UN Equity,Financial,UN
+PNC UN Equity,Financial,UN
+PNR UN Equity,Industrial,UN
+PNW UN Equity,Utilities,UN
+PPG UN Equity,Basic Materials,UN
+PPL UN Equity,Utilities,UN
+PRGO UN Equity,"Consumer, Non-cyclical",UN
+PRU UN Equity,Financial,UN
+PSA UN Equity,Financial,UN
+PSX UN Equity,Energy,UN
+PVH UN Equity,"Consumer, Cyclical",UN
+PWR UN Equity,"Consumer, Non-cyclical",UN
+PXD UN Equity,Energy,UN
+QRVO UW Equity,Technology,UW
+RCL UN Equity,"Consumer, Cyclical",UN
+RE UN Equity,Financial,UN
+REGN UW Equity,"Consumer, Non-cyclical",UW
+RF UN Equity,Financial,UN
+RHI UN Equity,"Consumer, Non-cyclical",UN
+RJF UN Equity,Financial,UN
+RL UN Equity,"Consumer, Cyclical",UN
+RMD UN Equity,"Consumer, Non-cyclical",UN
+ROK UN Equity,Industrial,UN
+ROL UN Equity,"Consumer, Non-cyclical",UN
+ROP UN Equity,Industrial,UN
+ROST UW Equity,"Consumer, Cyclical",UW
+RSG UN Equity,Industrial,UN
+SBAC UW Equity,Financial,UW
+SCHW UN Equity,Financial,UN
+SEE UN Equity,Industrial,UN
+SHW UN Equity,Basic Materials,UN
+SIVB UW Equity,Financial,UW
+SJM UN Equity,"Consumer, Non-cyclical",UN
+SLG UN Equity,Financial,UN
+SNA UN Equity,Industrial,UN
+SNPS UW Equity,Technology,UW
+SPGI UN Equity,"Consumer, Non-cyclical",UN
+SRE UN Equity,Utilities,UN
+STI UN Equity,Financial,UN
+STT UN Equity,Financial,UN
+STX UW Equity,Technology,UW
+STZ UN Equity,"Consumer, Non-cyclical",UN
+SWK UN Equity,Industrial,UN
+SWKS UW Equity,Technology,UW
+SYF UN Equity,Financial,UN
+SYK UN Equity,"Consumer, Non-cyclical",UN
+SYMC UW Equity,Communications,UW
+SYY UN Equity,"Consumer, Non-cyclical",UN
+TAP UN Equity,"Consumer, Non-cyclical",UN
+TDG UN Equity,Industrial,UN
+TEL UN Equity,Industrial,UN
+TFX UN Equity,"Consumer, Non-cyclical",UN
+TIF UN Equity,"Consumer, Cyclical",UN
+TJX UN Equity,"Consumer, Cyclical",UN
+TMO UN Equity,"Consumer, Non-cyclical",UN
+TMUS UW Equity,Communications,UW
+TPR UN Equity,"Consumer, Cyclical",UN
+TRIP UW Equity,Communications,UW
+TROW UW Equity,Financial,UW
+TSCO UW Equity,"Consumer, Cyclical",UW
+TSN UN Equity,"Consumer, Non-cyclical",UN
+TTWO UW Equity,Technology,UW
+TWTR UN Equity,Communications,UN
+TXT UN Equity,Industrial,UN
+UA UN Equity,"Consumer, Cyclical",UN
+UAA UN Equity,"Consumer, Cyclical",UN
+UDR UN Equity,Financial,UN
+UHS UN Equity,"Consumer, Non-cyclical",UN
+ULTA UW Equity,"Consumer, Cyclical",UW
+UNM UN Equity,Financial,UN
+URI UN Equity,"Consumer, Non-cyclical",UN
+VAR UN Equity,"Consumer, Non-cyclical",UN
+VFC UN Equity,"Consumer, Cyclical",UN
+VIAB UW Equity,Communications,UW
+VLO UN Equity,Energy,UN
+VMC UN Equity,Industrial,UN
+VNO UN Equity,Financial,UN
+VRSK UW Equity,"Consumer, Non-cyclical",UW
+VRSN UW Equity,Communications,UW
+VRTX UW Equity,"Consumer, Non-cyclical",UW
+VTR UN Equity,Financial,UN
+WAB UN Equity,Industrial,UN
+WAT UN Equity,Industrial,UN
+WCG UN Equity,"Consumer, Non-cyclical",UN
+WDC UW Equity,Technology,UW
+WEC UN Equity,Utilities,UN
+WELL UN Equity,Financial,UN
+WHR UN Equity,"Consumer, Cyclical",UN
+WLTW UW Equity,Financial,UW
+WM UN Equity,Industrial,UN
+WMB UN Equity,Energy,UN
+WRK UN Equity,Industrial,UN
+WU UN Equity,Financial,UN
+WY UN Equity,Financial,UN
+WYNN UW Equity,"Consumer, Cyclical",UW
+XEC UN Equity,Energy,UN
+XLNX UW Equity,Technology,UW
+XRAY UW Equity,"Consumer, Non-cyclical",UW
+XRX UN Equity,Technology,UN
+XYL UN Equity,Industrial,UN
+YUM UN Equity,"Consumer, Cyclical",UN
+ZBH UN Equity,"Consumer, Non-cyclical",UN
+ZION UW Equity,Financial,UW
+ZTS UN Equity,"Consumer, Non-cyclical",UN
+AAN UN Equity,"Consumer, Non-cyclical",UN
+AAXN UW Equity,Industrial,UW
+ACC UN Equity,Financial,UN
+ACHC UW Equity,"Consumer, Non-cyclical",UW
+ACIW UW Equity,Technology,UW
+ACM UN Equity,Industrial,UN
+ADNT UN Equity,"Consumer, Cyclical",UN
+AEO UN Equity,"Consumer, Cyclical",UN
+AFG UN Equity,Financial,UN
+AGCO UN Equity,Industrial,UN
+ALE UN Equity,Utilities,UN
+ALEX UN Equity,Financial,UN
+AMCX UW Equity,Communications,UW
+AMED UW Equity,"Consumer, Non-cyclical",UW
+AN UN Equity,"Consumer, Cyclical",UN
+ARW UN Equity,Industrial,UN
+ASB UN Equity,Financial,UN
+ASGN UN Equity,"Consumer, Non-cyclical",UN
+ASH UN Equity,Basic Materials,UN
+ATGE UN Equity,"Consumer, Non-cyclical",UN
+ATI UN Equity,Basic Materials,UN
+ATR UN Equity,Industrial,UN
+AVNS UN Equity,"Consumer, Non-cyclical",UN
+AYI UN Equity,Industrial,UN
+BBBY UW Equity,"Consumer, Cyclical",UW
+BC UN Equity,"Consumer, Cyclical",UN
+BCO UN Equity,"Consumer, Non-cyclical",UN
+BDC UN Equity,Industrial,UN
+BIO UN Equity,"Consumer, Non-cyclical",UN
+BKH UN Equity,Utilities,UN
+BLKB UW Equity,Technology,UW
+BOH UN Equity,Financial,UN
+BRO UN Equity,Financial,UN
+BRX UN Equity,Financial,UN
+BXS UN Equity,Financial,UN
+BYD UN Equity,"Consumer, Cyclical",UN
+CABO UN Equity,Communications,UN
+CACI UN Equity,Technology,UN
+CAKE UW Equity,"Consumer, Cyclical",UW
+CAR UW Equity,"Consumer, Non-cyclical",UW
+CASY UW Equity,"Consumer, Cyclical",UW
+CATY UW Equity,Financial,UW
+CBRL UW Equity,"Consumer, Cyclical",UW
+CBSH UW Equity,Financial,UW
+CBT UN Equity,Basic Materials,UN
+CC UN Equity,Basic Materials,UN
+CDK UW Equity,Technology,UW
+CFR UN Equity,Financial,UN
+CFX UN Equity,Industrial,UN
+CGNX UW Equity,Industrial,UW
+CHDN UW Equity,"Consumer, Cyclical",UW
+CHE UN Equity,"Consumer, Non-cyclical",UN
+CHK UN Equity,Energy,UN
+CIEN UN Equity,Communications,UN
+CLB UN Equity,Energy,UN
+CLGX UN Equity,"Consumer, Non-cyclical",UN
+CLH UN Equity,Industrial,UN
+CLI UN Equity,Financial,UN
+CMC UN Equity,Basic Materials,UN
+CMD UN Equity,"Consumer, Non-cyclical",UN
+CMP UN Equity,Basic Materials,UN
+CNK UN Equity,"Consumer, Cyclical",UN
+CNO UN Equity,Financial,UN
+CNX UN Equity,Energy,UN
+COHR UW Equity,Industrial,UW
+CONE UW Equity,Financial,UW
+COR UN Equity,Financial,UN
+CPT UN Equity,Financial,UN
+CR UN Equity,Industrial,UN
+CREE UW Equity,Technology,UW
+CRI UN Equity,"Consumer, Cyclical",UN
+CRL UN Equity,"Consumer, Non-cyclical",UN
+CRS UN Equity,Basic Materials,UN
+CRUS UW Equity,Technology,UW
+CSL UN Equity,Industrial,UN
+CTLT UN Equity,"Consumer, Non-cyclical",UN
+CUZ UN Equity,Financial,UN
+CVLT UW Equity,Technology,UW
+CW UN Equity,Industrial,UN
+CXW UN Equity,Financial,UN
+CY UW Equity,Technology,UW
+CZR UW Equity,"Consumer, Cyclical",UW
+DAN UN Equity,"Consumer, Cyclical",UN
+DCI UN Equity,Industrial,UN
+DDS UN Equity,"Consumer, Cyclical",UN
+DECK UN Equity,"Consumer, Cyclical",UN
+DEI UN Equity,Financial,UN
+DKS UN Equity,"Consumer, Cyclical",UN
+DLX UN Equity,Financial,UN
+DNKN UW Equity,"Consumer, Cyclical",UW
+DNOW UN Equity,Energy,UN
+DPZ UN Equity,"Consumer, Cyclical",UN
+DY UN Equity,Industrial,UN
+EAT UN Equity,"Consumer, Cyclical",UN
+EGP UN Equity,Financial,UN
+EHC UN Equity,"Consumer, Non-cyclical",UN
+EME UN Equity,Industrial,UN
+ENR UN Equity,Industrial,UN
+ENS UN Equity,Industrial,UN
+EPC UN Equity,"Consumer, Non-cyclical",UN
+EPR UN Equity,Financial,UN
+EQT UN Equity,Energy,UN
+ERI UW Equity,"Consumer, Cyclical",UW
+ETSY UW Equity,Communications,UW
+EV UN Equity,Financial,UN
+EVR UN Equity,Financial,UN
+EWBC UW Equity,Financial,UW
+EXEL UW Equity,"Consumer, Non-cyclical",UW
+EXP UN Equity,Industrial,UN
+FAF UN Equity,Financial,UN
+FDS UN Equity,Communications,UN
+FFIN UW Equity,Financial,UW
+FHN UN Equity,Financial,UN
+FICO UN Equity,Technology,UN
+FII UN Equity,Financial,UN
+FIVE UW Equity,"Consumer, Cyclical",UW
+FL UN Equity,"Consumer, Cyclical",UN
+FLO UN Equity,"Consumer, Non-cyclical",UN
+FLR UN Equity,Industrial,UN
+FNB UN Equity,Financial,UN
+FR UN Equity,Financial,UN
+FSLR UW Equity,Energy,UW
+FULT UW Equity,Financial,UW
+GATX UN Equity,Industrial,UN
+GDOT UN Equity,"Consumer, Non-cyclical",UN
+GEF UN Equity,Industrial,UN
+GEO UN Equity,Financial,UN
+GGG UN Equity,Industrial,UN
+GHC UN Equity,"Consumer, Non-cyclical",UN
+GMED UN Equity,"Consumer, Non-cyclical",UN
+GNTX UW Equity,Industrial,UW
+GNW UN Equity,Financial,UN
+GRUB UN Equity,Communications,UN
+GT UW Equity,"Consumer, Cyclical",UW
+GVA UN Equity,Industrial,UN
+GWR UN Equity,Industrial,UN
+HAE UN Equity,"Consumer, Non-cyclical",UN
+HAIN UW Equity,"Consumer, Non-cyclical",UW
+HCSG UW Equity,"Consumer, Non-cyclical",UW
+HE UN Equity,Utilities,UN
+HELE UW Equity,"Consumer, Non-cyclical",UW
+HIW UN Equity,Financial,UN
+HNI UN Equity,"Consumer, Cyclical",UN
+HOMB UW Equity,Financial,UW
+HQY UW Equity,"Consumer, Non-cyclical",UW
+HR UN Equity,Financial,UN
+HRC UN Equity,"Consumer, Non-cyclical",UN
+HUBB UN Equity,Industrial,UN
+HWC UW Equity,Financial,UW
+IART UW Equity,"Consumer, Non-cyclical",UW
+IBOC UW Equity,Financial,UW
+ICUI UW Equity,"Consumer, Non-cyclical",UW
+IDA UN Equity,Utilities,UN
+IDCC UW Equity,Communications,UW
+IIVI UW Equity,Industrial,UW
+INGR UN Equity,"Consumer, Non-cyclical",UN
+INT UN Equity,"Consumer, Cyclical",UN
+ISCA UW Equity,"Consumer, Cyclical",UW
+ITT UN Equity,Industrial,UN
+JACK UW Equity,"Consumer, Cyclical",UW
+JBL UN Equity,Industrial,UN
+JBLU UW Equity,"Consumer, Cyclical",UW
+JCOM UW Equity,Technology,UW
+JEF UN Equity,Financial,UN
+JLL UN Equity,Financial,UN
+JW/A UN Equity,Communications,UN
+KAR UN Equity,"Consumer, Cyclical",UN
+KBH UN Equity,"Consumer, Cyclical",UN
+KBR UN Equity,Industrial,UN
+KEX UN Equity,Industrial,UN
+KMPR UN Equity,Financial,UN
+KMT UN Equity,Industrial,UN
+KNX UN Equity,Industrial,UN
+KRC UN Equity,Financial,UN
+LAMR UW Equity,Financial,UW
+LANC UW Equity,"Consumer, Non-cyclical",UW
+LECO UW Equity,Industrial,UW
+LFUS UW Equity,Industrial,UW
+LGND UQ Equity,"Consumer, Non-cyclical",UQ
+LII UN Equity,Industrial,UN
+LITE UW Equity,Technology,UW
+LIVN UW Equity,"Consumer, Non-cyclical",UW
+LM UN Equity,Financial,UN
+LOGM UW Equity,Communications,UW
+LPT UN Equity,Financial,UN
+LPX UN Equity,Industrial,UN
+LSI UN Equity,Financial,UN
+LSTR UW Equity,Industrial,UW
+LYV UN Equity,"Consumer, Cyclical",UN
+MAN UN Equity,"Consumer, Non-cyclical",UN
+MANH UW Equity,Technology,UW
+MASI UW Equity,"Consumer, Non-cyclical",UW
+MAT UW Equity,"Consumer, Cyclical",UW
+MCY UN Equity,Financial,UN
+MD UN Equity,"Consumer, Non-cyclical",UN
+MDP UN Equity,Communications,UN
+MDRX UW Equity,Technology,UW
+MDSO UW Equity,Technology,UW
+MDU UN Equity,Industrial,UN
+MKSI UW Equity,Technology,UW
+MLHR UW Equity,"Consumer, Cyclical",UW
+MMS UN Equity,Technology,UN
+MOH UN Equity,"Consumer, Non-cyclical",UN
+MPW UN Equity,Financial,UN
+MPWR UW Equity,Technology,UW
+MRCY UW Equity,Industrial,UW
+MSA UN Equity,Industrial,UN
+MSM UN Equity,"Consumer, Cyclical",UN
+MTDR UN Equity,Energy,UN
+MTX UN Equity,Basic Materials,UN
+MTZ UN Equity,Industrial,UN
+MUR UN Equity,Energy,UN
+MUSA UN Equity,Energy,UN
+NATI UW Equity,Industrial,UW
+NAVI UW Equity,Financial,UW
+NCR UN Equity,Technology,UN
+NDSN UW Equity,Industrial,UW
+NEU UN Equity,Basic Materials,UN
+NFG UN Equity,Utilities,UN
+NGVT UN Equity,Basic Materials,UN
+NJR UN Equity,Utilities,UN
+NKTR UW Equity,"Consumer, Non-cyclical",UW
+NNN UN Equity,Financial,UN
+NSP UN Equity,"Consumer, Non-cyclical",UN
+NTCT UW Equity,Technology,UW
+NUS UN Equity,"Consumer, Cyclical",UN
+NUVA UW Equity,"Consumer, Non-cyclical",UW
+NWE UN Equity,Utilities,UN
+NYCB UN Equity,Financial,UN
+NYT UN Equity,Communications,UN
+OAS UN Equity,Energy,UN
+OC UN Equity,Industrial,UN
+ODFL UW Equity,Industrial,UW
+OFC UN Equity,Financial,UN
+OGE UN Equity,Utilities,UN
+OGS UN Equity,Utilities,UN
+OHI UN Equity,Financial,UN
+OI UN Equity,Industrial,UN
+OII UN Equity,Energy,UN
+OLED UW Equity,Industrial,UW
+OLLI UQ Equity,"Consumer, Cyclical",UQ
+OLN UN Equity,Basic Materials,UN
+ORI UN Equity,Financial,UN
+OSK UN Equity,Industrial,UN
+OZK UW Equity,Financial,UW
+PACW UW Equity,Financial,UW
+PB UN Equity,Financial,UN
+PBF UN Equity,Energy,UN
+PBH UN Equity,"Consumer, Non-cyclical",UN
+PCH UW Equity,Financial,UW
+PDCO UW Equity,"Consumer, Non-cyclical",UW
+PEB UN Equity,Financial,UN
+PEN UN Equity,"Consumer, Non-cyclical",UN
+PENN UW Equity,"Consumer, Cyclical",UW
+PII UN Equity,"Consumer, Cyclical",UN
+PK UN Equity,Financial,UN
+PLT UN Equity,Communications,UN
+PNFP UW Equity,Financial,UW
+PNM UN Equity,Utilities,UN
+POL UN Equity,Basic Materials,UN
+POOL UW Equity,"Consumer, Cyclical",UW
+POST UN Equity,"Consumer, Non-cyclical",UN
+PPC UW Equity,"Consumer, Non-cyclical",UW
+PRAH UW Equity,"Consumer, Non-cyclical",UW
+PRI UN Equity,Financial,UN
+PSB UN Equity,Financial,UN
+PTC UW Equity,Technology,UW
+PTEN UW Equity,Energy,UW
+PZZA UW Equity,"Consumer, Cyclical",UW
+R UN Equity,Industrial,UN
+RBC UN Equity,Industrial,UN
+RGA UN Equity,Financial,UN
+RGEN UW Equity,"Consumer, Non-cyclical",UW
+RGLD UW Equity,Basic Materials,UW
+RIG UN Equity,Energy,UN
+RNR UN Equity,Financial,UN
+RPM UN Equity,Basic Materials,UN
+RS UN Equity,Basic Materials,UN
+RYN UN Equity,Financial,UN
+SABR UW Equity,"Consumer, Non-cyclical",UW
+SAFM UW Equity,"Consumer, Non-cyclical",UW
+SAIC UN Equity,Technology,UN
+SAM UN Equity,"Consumer, Non-cyclical",UN
+SBH UN Equity,"Consumer, Cyclical",UN
+SBNY UW Equity,Financial,UW
+SBRA UW Equity,Financial,UW
+SCI UN Equity,"Consumer, Non-cyclical",UN
+SEIC UW Equity,Financial,UW
+SF UN Equity,Financial,UN
+SFM UW Equity,"Consumer, Non-cyclical",UW
+SGMS UW Equity,"Consumer, Cyclical",UW
+SIGI UW Equity,Financial,UW
+SIX UN Equity,"Consumer, Cyclical",UN
+SKT UN Equity,Financial,UN
+SKX UN Equity,"Consumer, Cyclical",UN
+SLAB UW Equity,Technology,UW
+SLGN UW Equity,Industrial,UW
+SLM UW Equity,Financial,UW
+SMG UN Equity,"Consumer, Cyclical",UN
+SMTC UW Equity,Technology,UW
+SNH UW Equity,Financial,UW
+SNV UN Equity,Financial,UN
+SNX UN Equity,Industrial,UN
+SON UN Equity,Industrial,UN
+SR UN Equity,Utilities,UN
+SRC UN Equity,Financial,UN
+SRCL UW Equity,Industrial,UW
+STE UN Equity,"Consumer, Non-cyclical",UN
+STL UN Equity,Financial,UN
+STLD UW Equity,Basic Materials,UW
+SVC UW Equity,Financial,UW
+SWN UN Equity,Energy,UN
+SWX UN Equity,Utilities,UN
+SXT UN Equity,Basic Materials,UN
+SYNA UW Equity,Technology,UW
+SYNH UW Equity,"Consumer, Non-cyclical",UW
+TCBI UW Equity,Financial,UW
+TCF UW Equity,Financial,UW
+TCO UN Equity,Financial,UN
+TDC UN Equity,Technology,UN
+TDS UN Equity,Communications,UN
+TDY UN Equity,Industrial,UN
+TECD UW Equity,Industrial,UW
+TECH UW Equity,"Consumer, Non-cyclical",UW
+TEX UN Equity,Industrial,UN
+TGNA UN Equity,Communications,UN
+THC UN Equity,"Consumer, Non-cyclical",UN
+THG UN Equity,Financial,UN
+THO UN Equity,"Consumer, Cyclical",UN
+THS UN Equity,"Consumer, Non-cyclical",UN
+TKR UN Equity,Industrial,UN
+TOL UN Equity,"Consumer, Cyclical",UN
+TPH UN Equity,"Consumer, Cyclical",UN
+TPX UN Equity,"Consumer, Cyclical",UN
+TR UN Equity,"Consumer, Non-cyclical",UN
+TREE UW Equity,Financial,UW
+TREX UN Equity,Industrial,UN
+TRMB UW Equity,Industrial,UW
+TRMK UW Equity,Financial,UW
+TRN UN Equity,Industrial,UN
+TTC UN Equity,"Consumer, Cyclical",UN
+TTEK UW Equity,Industrial,UW
+TXRH UW Equity,"Consumer, Cyclical",UW
+TYL UN Equity,Technology,UN
+UBSI UW Equity,Financial,UW
+UE UN Equity,Financial,UN
+UFS UN Equity,Basic Materials,UN
+UGI UN Equity,Utilities,UN
+UMBF UW Equity,Financial,UW
+UMPQ UW Equity,Financial,UW
+URBN UW Equity,"Consumer, Cyclical",UW
+UTHR UW Equity,"Consumer, Non-cyclical",UW
+VAC UN Equity,"Consumer, Cyclical",UN
+VMI UN Equity,Industrial,UN
+VSAT UW Equity,Communications,UW
+VSH UN Equity,Industrial,UN
+VVV UN Equity,Basic Materials,UN
+WAFD UW Equity,Financial,UW
+WBS UN Equity,Financial,UN
+WEN UW Equity,"Consumer, Cyclical",UW
+WERN UW Equity,Industrial,UW
+WEX UN Equity,"Consumer, Non-cyclical",UN
+WOR UN Equity,Industrial,UN
+WPX UN Equity,Energy,UN
+WRB UN Equity,Financial,UN
+WRI UN Equity,Financial,UN
+WSM UN Equity,"Consumer, Cyclical",UN
+WSO UN Equity,"Consumer, Cyclical",UN
+WST UN Equity,"Consumer, Non-cyclical",UN
+WTFC UW Equity,Financial,UW
+WTR UN Equity,Utilities,UN
+WWD UW Equity,Industrial,UW
+WWE UN Equity,Communications,UN
+WYND UN Equity,"Consumer, Cyclical",UN
+X UN Equity,Basic Materials,UN
+XPO UN Equity,Industrial,UN
+Y UN Equity,Financial,UN
+YELP UN Equity,Communications,UN
+ZBRA UW Equity,Technology,UW
+ASML UW Equity,Technology,UW
+BIDU UW Equity,Communications,UW
+BMRN UW Equity,"Consumer, Non-cyclical",UW
+CHKP UW Equity,Technology,UW
+CTRP UW Equity,Communications,UW
+JD UW Equity,Communications,UW
+LBTYA UW Equity,Communications,UW
+LBTYK UW Equity,Communications,UW
+LULU UW Equity,"Consumer, Cyclical",UW
+MELI UW Equity,Communications,UW
+NTES UW Equity,Technology,UW
+NXPI UW Equity,Technology,UW
+SIRI UW Equity,Communications,UW
+TSLA UW Equity,"Consumer, Cyclical",UW
+AA UN Equity,Basic Materials,UN
+ACGL UW Equity,Financial,UW
+AGIO UW Equity,"Consumer, Non-cyclical",UW
+AGNC UW Equity,Financial,UW
+AGO UN Equity,Financial,UN
+AGR UN Equity,Utilities,UN
+AL UN Equity,Financial,UN
+ALKS UW Equity,"Consumer, Non-cyclical",UW
+ALLY UN Equity,Financial,UN
+ALNY UW Equity,"Consumer, Non-cyclical",UW
+ALSN UN Equity,"Consumer, Cyclical",UN
+AMH UN Equity,Financial,UN
+AMTD UW Equity,Financial,UW
+ANAT UW Equity,Financial,UW
+APLE UN Equity,Financial,UN
+AR UN Equity,Energy,UN
+ARMK UN Equity,"Consumer, Cyclical",UN
+ATH UN Equity,Financial,UN
+AWI UN Equity,Industrial,UN
+AXS UN Equity,Financial,UN
+AXTA UN Equity,Basic Materials,UN
+AZPN UW Equity,Technology,UW
+BAH UN Equity,"Consumer, Non-cyclical",UN
+BDN UN Equity,Financial,UN
+BERY UN Equity,Industrial,UN
+BF/A UN Equity,"Consumer, Non-cyclical",UN
+BFAM UN Equity,"Consumer, Non-cyclical",UN
+BG UN Equity,"Consumer, Non-cyclical",UN
+BGCP UW Equity,Financial,UW
+BKI UN Equity,Technology,UN
+BKU UN Equity,Financial,UN
+BLUE UW Equity,"Consumer, Non-cyclical",UW
+BOKF UW Equity,Financial,UW
+BPOP UW Equity,Financial,UW
+BRKR UW Equity,"Consumer, Non-cyclical",UW
+BURL UN Equity,"Consumer, Cyclical",UN
+BWXT UN Equity,Industrial,UN
+CACC UW Equity,Financial,UW
+CCK UN Equity,Industrial,UN
+CDEV UR Equity,Energy,UR
+CHH UN Equity,"Consumer, Cyclical",UN
+CIM UN Equity,Financial,UN
+CIT UN Equity,Financial,UN
+CLNY UN Equity,Financial,UN
+CLR UN Equity,Energy,UN
+CNA UN Equity,Financial,UN
+COLM UW Equity,"Consumer, Cyclical",UW
+COMM UW Equity,Communications,UW
+COUP UW Equity,Technology,UW
+CPA UN Equity,"Consumer, Cyclical",UN
+CSGP UW Equity,"Consumer, Non-cyclical",UW
+CUBE UN Equity,Financial,UN
+CXP UN Equity,Financial,UN
+DLB UN Equity,"Consumer, Cyclical",UN
+DOX UW Equity,Technology,UW
+DXCM UW Equity,"Consumer, Non-cyclical",UW
+EEFT UW Equity,"Consumer, Non-cyclical",UW
+ELS UN Equity,Financial,UN
+ENTG UW Equity,Technology,UW
+EPAM UN Equity,Technology,UN
+EQC UN Equity,Financial,UN
+ERIE UW Equity,Financial,UW
+ESI UN Equity,Basic Materials,UN
+ESRT UN Equity,Financial,UN
+EXAS UR Equity,"Consumer, Non-cyclical",UR
+FCNCA UW Equity,Financial,UW
+FEYE UW Equity,Communications,UW
+FHB UW Equity,Financial,UW
+FNF UN Equity,Financial,UN
+FWONA UW Equity,Communications,UW
+FWONK UW Equity,Communications,UW
+G UN Equity,Technology,UN
+GDDY UN Equity,Communications,UN
+GLPI UW Equity,Financial,UW
+GPK UN Equity,Industrial,UN
+GRA UN Equity,Basic Materials,UN
+GWRE UN Equity,Technology,UN
+H UN Equity,"Consumer, Cyclical",UN
+HDS UW Equity,"Consumer, Cyclical",UW
+HEI UN Equity,Industrial,UN
+HEI/A UN Equity,Industrial,UN
+HGV UN Equity,"Consumer, Cyclical",UN
+HHC UN Equity,Financial,UN
+HLF UN Equity,"Consumer, Non-cyclical",UN
+HPP UN Equity,Financial,UN
+HTA UN Equity,Financial,UN
+HUBS UN Equity,Technology,UN
+HUN UN Equity,Basic Materials,UN
+HXL UN Equity,Industrial,UN
+HZNP UW Equity,"Consumer, Non-cyclical",UW
+IAC UW Equity,Communications,UW
+IGT UN Equity,"Consumer, Cyclical",UN
+IONS UW Equity,"Consumer, Non-cyclical",UW
+JAZZ UW Equity,"Consumer, Non-cyclical",UW
+KDP UN Equity,"Consumer, Non-cyclical",UN
+KOS UN Equity,Energy,UN
+LAZ UN Equity,Financial,UN
+LBRDA UW Equity,Communications,UW
+LBRDK UW Equity,Communications,UW
+LEA UN Equity,"Consumer, Cyclical",UN
+LEN/B UN Equity,"Consumer, Cyclical",UN
+LGF/A UN Equity,"Consumer, Cyclical",UN
+LGF/B UN Equity,"Consumer, Cyclical",UN
+LNG UA Equity,Energy,UA
+LOPE UW Equity,"Consumer, Non-cyclical",UW
+LPLA UW Equity,Financial,UW
+LSXMA UW Equity,Communications,UW
+LSXMK UW Equity,Communications,UW
+MFA UN Equity,Financial,UN
+MIC UN Equity,"Consumer, Non-cyclical",UN
+MIDD UW Equity,Industrial,UW
+MKL UN Equity,Financial,UN
+MORN UW Equity,"Consumer, Non-cyclical",UW
+MRVL UW Equity,Technology,UW
+MSG UN Equity,"Consumer, Cyclical",UN
+MTCH UW Equity,Communications,UW
+MTG UN Equity,Financial,UN
+MTN UN Equity,"Consumer, Cyclical",UN
+NBIX UW Equity,"Consumer, Non-cyclical",UW
+NEWR UN Equity,Technology,UN
+NLY UN Equity,Financial,UN
+NOW UN Equity,Technology,UN
+NRZ UN Equity,Financial,UN
+NTNX UW Equity,Technology,UW
+NUAN UW Equity,Technology,UW
+NXST UW Equity,Communications,UW
+OMF UN Equity,Financial,UN
+ON UW Equity,Technology,UW
+OUT UN Equity,Financial,UN
+PAG UN Equity,"Consumer, Cyclical",UN
+PANW UN Equity,Communications,UN
+PAYC UN Equity,Technology,UN
+PCG UN Equity,Utilities,UN
+PCTY UW Equity,"Consumer, Non-cyclical",UW
+PE UN Equity,Energy,UN
+PEGA UW Equity,Technology,UW
+PFPT UQ Equity,Communications,UQ
+PGRE UN Equity,Financial,UN
+PINC UW Equity,"Consumer, Non-cyclical",UW
+PLNT UN Equity,"Consumer, Cyclical",UN
+PODD UW Equity,"Consumer, Non-cyclical",UW
+PSTG UN Equity,Technology,UN
+QRTEA UW Equity,"Consumer, Cyclical",UW
+RNG UN Equity,Communications,UN
+RP UW Equity,Technology,UW
+RPAI UN Equity,Financial,UN
+RRC UN Equity,Energy,UN
+S UN Equity,Communications,UN
+SAGE UQ Equity,"Consumer, Non-cyclical",UQ
+SATS UW Equity,Communications,UW
+SBGI UW Equity,Communications,UW
+SC UN Equity,Financial,UN
+SCCO UN Equity,Basic Materials,UN
+SEB UA Equity,"Consumer, Non-cyclical",UA
+SERV UN Equity,"Consumer, Non-cyclical",UN
+SGEN UW Equity,"Consumer, Non-cyclical",UW
+SITC UN Equity,Financial,UN
+SPB UN Equity,"Consumer, Non-cyclical",UN
+SPLK UW Equity,Technology,UW
+SPR UN Equity,Industrial,UN
+SQ UN Equity,"Consumer, Non-cyclical",UN
+SRPT UW Equity,"Consumer, Non-cyclical",UW
+SSNC UW Equity,Technology,UW
+ST UN Equity,Industrial,UN
+STOR UN Equity,Financial,UN
+STWD UN Equity,Financial,UN
+SUI UN Equity,Financial,UN
+TEAM UW Equity,Technology,UW
+TFSL UW Equity,Financial,UW
+TRGP UN Equity,Energy,UN
+TRU UN Equity,"Consumer, Non-cyclical",UN
+TTD UQ Equity,Communications,UQ
+TWLO UN Equity,Technology,UN
+TWO UN Equity,Financial,UN
+TWOU UW Equity,"Consumer, Non-cyclical",UW
+UHAL UW Equity,"Consumer, Non-cyclical",UW
+UNVR UN Equity,Basic Materials,UN
+USFD UN Equity,"Consumer, Non-cyclical",UN
+USM UN Equity,Communications,UN
+VEEV UN Equity,Technology,UN
+VER UN Equity,Financial,UN
+VIA UW Equity,Communications,UW
+VIRT UW Equity,Financial,UW
+VMW UN Equity,Technology,UN
+VOYA UN Equity,Financial,UN
+W UN Equity,Communications,UN
+WAL UN Equity,Financial,UN
+WBC UN Equity,"Consumer, Cyclical",UN
+WCC UN Equity,"Consumer, Cyclical",UN
+WLK UN Equity,Basic Materials,UN
+WPC UN Equity,Financial,UN
+WTM UN Equity,Financial,UN
+YUMC UN Equity,"Consumer, Cyclical",UN
+Z UW Equity,Communications,UW
+ZAYO UN Equity,Communications,UN
+ZEN UN Equity,Communications,UN
+ZG UW Equity,Communications,UW
+ZNGA UW Equity,Technology,UW
+DO UN Equity,Energy,UN
+DRQ UN Equity,Energy,UN
+GLNG UW Equity,Industrial,UW
+NBR UN Equity,Energy,UN
+OIS UN Equity,Energy,UN
+TNK UN Equity,Industrial,UN
+AC* MF Equity,"Consumer, Non-cyclical",MF
+ALFAA MF Equity,Diversified,MF
+ALPEKA MF Equity,Basic Materials,MF
+ALSEA* MF Equity,"Consumer, Cyclical",MF
+AMXL MF Equity,Communications,MF
+ASURB MF Equity,Industrial,MF
+BIMBOA MF Equity,"Consumer, Non-cyclical",MF
+BOLSAA MF Equity,Financial,MF
+BSMXB MF Equity,Financial,MF
+CEMEXCPO MF Equity,Industrial,MF
+ELEKTRA* MF Equity,Financial,MF
+FEMSAUBD MF Equity,"Consumer, Non-cyclical",MF
+GAPB MF Equity,Industrial,MF
+GCARSOA1 MF Equity,Diversified,MF
+GCC* MF Equity,Industrial,MF
+GENTERA* MF Equity,Financial,MF
+GFINBURO MF Equity,Financial,MF
+GFNORTEO MF Equity,Financial,MF
+GMEXICOB MF Equity,Basic Materials,MF
+GRUMAB MF Equity,"Consumer, Non-cyclical",MF
+IENOVA* MF Equity,Utilities,MF
+KIMBERA MF Equity,"Consumer, Non-cyclical",MF
+KOFUBL MF Equity,"Consumer, Non-cyclical",MF
+LABB MF Equity,"Consumer, Non-cyclical",MF
+LIVEPOLC MF Equity,"Consumer, Cyclical",MF
+MEGACPO MF Equity,Communications,MF
+OMAB MF Equity,Industrial,MF
+ORBIA* MF Equity,Basic Materials,MF
+PE&OLES* MF Equity,Basic Materials,MF
+PINFRA* MF Equity,"Consumer, Non-cyclical",MF
+RA MF Equity,Financial,MF
+TLEVICPO MF Equity,Communications,MF
+WALMEX* MF Equity,"Consumer, Cyclical",MF
+AESGENER CC Equity,Utilities,CC
+AGUAS/A CC Equity,Utilities,CC
+ANDINAB CC Equity,"Consumer, Non-cyclical",CC
+BCI CC Equity,Financial,CC
+BSAN CC Equity,Financial,CC
+CAP CC Equity,Basic Materials,CC
+CCU CC Equity,"Consumer, Non-cyclical",CC
+CENCOSUD CC Equity,"Consumer, Non-cyclical",CC
+CHILE CC Equity,Financial,CC
+CMPC CC Equity,Basic Materials,CC
+COLBUN CC Equity,Utilities,CC
+CONCHA CC Equity,"Consumer, Non-cyclical",CC
+COPEC CC Equity,Energy,CC
+ECL CC Equity,Utilities,CC
+ENELAM CC Equity,Utilities,CC
+ENELCHIL CC Equity,Utilities,CC
+ENTEL CC Equity,Communications,CC
+FALAB CC Equity,"Consumer, Cyclical",CC
+IAM CC Equity,Utilities,CC
+ILC CC Equity,Diversified,CC
+ITAUCORP CC Equity,Financial,CC
+LTM CC Equity,"Consumer, Cyclical",CC
+PARAUCO CC Equity,Financial,CC
+RIPLEY CC Equity,"Consumer, Cyclical",CC
+SALFACOR CC Equity,Industrial,CC
+SECUR CC Equity,Financial,CC
+SONDA CC Equity,Technology,CC
+SQM/B CC Equity,Basic Materials,CC
+VAPORES CC Equity,Industrial,CC
+A2A IM Equity,Utilities,IM
+AAL LN Equity,Basic Materials,LN
+ABBN SW Equity,Industrial,SW
+ABF LN Equity,"Consumer, Non-cyclical",LN
+ACE IM Equity,Utilities,IM
+ACS SM Equity,Industrial,SM
+ADEN SW Equity,"Consumer, Non-cyclical",SW
+ADM LN Equity,Financial,LN
+AENA SM Equity,Industrial,SM
+AHT LN Equity,"Consumer, Non-cyclical",LN
+AMP IM Equity,"Consumer, Non-cyclical",IM
+AMS SM Equity,"Consumer, Non-cyclical",SM
+ANDR AV Equity,Industrial,AV
+ASHM LN Equity,Financial,LN
+ATL IM Equity,"Consumer, Non-cyclical",IM
+AUTO LN Equity,Communications,LN
+AV/ LN Equity,Financial,LN
+AVV LN Equity,Technology,LN
+AZN LN Equity,"Consumer, Non-cyclical",LN
+BA/ LN Equity,Industrial,LN
+BAER SW Equity,Financial,SW
+BALN SW Equity,Financial,SW
+BARC LN Equity,Financial,LN
+BATS LN Equity,"Consumer, Non-cyclical",LN
+BBA LN Equity,Industrial,LN
+BBVA SM Equity,Financial,SM
+BDEV LN Equity,"Consumer, Cyclical",LN
+BEZ LN Equity,Financial,LN
+BKG LN Equity,"Consumer, Cyclical",LN
+BKIA SM Equity,Financial,SM
+BKT SM Equity,Financial,SM
+BLND LN Equity,Financial,LN
+BME LN Equity,"Consumer, Cyclical",LN
+BMED IM Equity,Financial,IM
+BNZL LN Equity,"Consumer, Cyclical",LN
+BP/ LN Equity,Energy,LN
+BRBY LN Equity,"Consumer, Cyclical",LN
+BT/A LN Equity,Communications,LN
+BWY LN Equity,"Consumer, Cyclical",LN
+BZU IM Equity,Industrial,IM
+CABK SM Equity,Financial,SM
+CCH LN Equity,"Consumer, Non-cyclical",LN
+CFR SW Equity,"Consumer, Cyclical",SW
+CINE LN Equity,"Consumer, Cyclical",LN
+CLN SW Equity,Basic Materials,SW
+CLNX SM Equity,Industrial,SM
+CNA LN Equity,Utilities,LN
+COB LN Equity,Industrial,LN
+COL SM Equity,Financial,SM
+CPG LN Equity,"Consumer, Cyclical",LN
+CPR IM Equity,"Consumer, Non-cyclical",IM
+CRDA LN Equity,Basic Materials,LN
+CSGN SW Equity,Financial,SW
+CTEC LN Equity,"Consumer, Non-cyclical",LN
+DCC LN Equity,Energy,LN
+DGE LN Equity,"Consumer, Non-cyclical",LN
+DIA IM Equity,"Consumer, Non-cyclical",IM
+DLG LN Equity,Financial,LN
+DLN LN Equity,Financial,LN
+DPH LN Equity,"Consumer, Non-cyclical",LN
+DUFN SW Equity,"Consumer, Cyclical",SW
+EBS AV Equity,Financial,AV
+ELE SM Equity,Utilities,SM
+ENEL IM Equity,Utilities,IM
+ENG SM Equity,Utilities,SM
+ENI IM Equity,Energy,IM
+EXO IM Equity,Financial,IM
+EXPN LN Equity,"Consumer, Non-cyclical",LN
+EZJ LN Equity,"Consumer, Cyclical",LN
+FBK IM Equity,Financial,IM
+FER SM Equity,Industrial,SM
+FERG LN Equity,"Consumer, Cyclical",LN
+FLTR LN Equity,"Consumer, Cyclical",LN
+G IM Equity,Financial,IM
+GEBN SW Equity,Industrial,SW
+GLEN LN Equity,Basic Materials,LN
+GRF SM Equity,"Consumer, Non-cyclical",SM
+GSK LN Equity,"Consumer, Non-cyclical",LN
+HER IM Equity,Utilities,IM
+HL/ LN Equity,Financial,LN
+HLMA LN Equity,Industrial,LN
+HSBA LN Equity,Financial,LN
+HSV LN Equity,Industrial,LN
+HTO GA Equity,Communications,GA
+HWDN LN Equity,"Consumer, Cyclical",LN
+IAG LN Equity,"Consumer, Cyclical",LN
+IBE SM Equity,Utilities,SM
+ICP LN Equity,Financial,LN
+IG IM Equity,Utilities,IM
+IHG LN Equity,"Consumer, Cyclical",LN
+III LN Equity,Financial,LN
+IMB LN Equity,"Consumer, Non-cyclical",LN
+INF LN Equity,Communications,LN
+INW IM Equity,Industrial,IM
+IRE IM Equity,Utilities,IM
+ISP IM Equity,Financial,IM
+ITRK LN Equity,"Consumer, Non-cyclical",LN
+ITV LN Equity,Communications,LN
+ITX SM Equity,"Consumer, Cyclical",SM
+IWG LN Equity,"Consumer, Non-cyclical",LN
+JD/ LN Equity,"Consumer, Cyclical",LN
+JE/ LN Equity,Communications,LN
+JMAT LN Equity,Basic Materials,LN
+KGF LN Equity,"Consumer, Cyclical",LN
+KNIN SW Equity,Industrial,SW
+LAND LN Equity,Financial,LN
+LDO IM Equity,Industrial,IM
+LGEN LN Equity,Financial,LN
+LHN SW Equity,Industrial,SW
+LLOY LN Equity,Financial,LN
+LONN SW Equity,"Consumer, Non-cyclical",SW
+LSE LN Equity,Financial,LN
+MAP SM Equity,Financial,SM
+MB IM Equity,Financial,IM
+MCRO LN Equity,Technology,LN
+MERL LN Equity,"Consumer, Cyclical",LN
+MGGT LN Equity,Industrial,LN
+MKS LN Equity,"Consumer, Cyclical",LN
+MNDI LN Equity,Basic Materials,LN
+MONC IM Equity,"Consumer, Cyclical",IM
+MRL SM Equity,Financial,SM
+MRO LN Equity,Financial,LN
+MRW LN Equity,"Consumer, Non-cyclical",LN
+MS IM Equity,Communications,IM
+NESN SW Equity,"Consumer, Non-cyclical",SW
+NG/ LN Equity,Utilities,LN
+NOVN SW Equity,"Consumer, Non-cyclical",SW
+NTGY SM Equity,Utilities,SM
+NXT LN Equity,"Consumer, Cyclical",LN
+OCDO LN Equity,"Consumer, Non-cyclical",LN
+OMV AV Equity,Energy,AV
+OPAP GA Equity,"Consumer, Cyclical",GA
+PHNX LN Equity,Financial,LN
+PNN LN Equity,Utilities,LN
+PRU LN Equity,Financial,LN
+PRY IM Equity,Industrial,IM
+PSN LN Equity,"Consumer, Cyclical",LN
+PSON LN Equity,Communications,LN
+PST IM Equity,Industrial,IM
+RB/ LN Equity,"Consumer, Non-cyclical",LN
+RBI AV Equity,Financial,AV
+RBS LN Equity,Financial,LN
+RDSA LN Equity,Energy,LN
+REC IM Equity,"Consumer, Non-cyclical",IM
+REE SM Equity,Utilities,SM
+REL LN Equity,"Consumer, Non-cyclical",LN
+REP SM Equity,Energy,SM
+RIO LN Equity,Basic Materials,LN
+RMV LN Equity,Communications,LN
+ROG SW Equity,"Consumer, Non-cyclical",SW
+RR/ LN Equity,Industrial,LN
+RSA LN Equity,Financial,LN
+RTO LN Equity,"Consumer, Non-cyclical",LN
+SAB SM Equity,Financial,SM
+SAN SM Equity,Financial,SM
+SBRY LN Equity,"Consumer, Non-cyclical",LN
+SCHP SW Equity,Industrial,SW
+SCMN SW Equity,Communications,SW
+SDR LN Equity,Financial,LN
+SGE LN Equity,Technology,LN
+SGRE SM Equity,Energy,SM
+SGRO LN Equity,Financial,LN
+SIKA SW Equity,Industrial,SW
+SIS IM Equity,"Consumer, Non-cyclical",IM
+SLA LN Equity,Financial,LN
+SLHN SW Equity,Financial,SW
+SMDS LN Equity,Industrial,LN
+SMIN LN Equity,Industrial,LN
+SN/ LN Equity,"Consumer, Non-cyclical",LN
+SOON SW Equity,"Consumer, Non-cyclical",SW
+SPM IM Equity,Energy,IM
+SPX LN Equity,Industrial,LN
+SREN SW Equity,Financial,SW
+SRG IM Equity,Utilities,IM
+SSE LN Equity,Utilities,LN
+SSPG LN Equity,"Consumer, Non-cyclical",LN
+STAN LN Equity,Financial,LN
+STJ LN Equity,Financial,LN
+STM IM Equity,Technology,IM
+SVT LN Equity,Utilities,LN
+TATE LN Equity,"Consumer, Non-cyclical",LN
+TEF SM Equity,Communications,SM
+TEN IM Equity,Industrial,IM
+TIT IM Equity,Communications,IM
+TLW LN Equity,Energy,LN
+TPK LN Equity,"Consumer, Cyclical",LN
+TRN IM Equity,Utilities,IM
+TSCO LN Equity,"Consumer, Non-cyclical",LN
+TUI LN Equity,"Consumer, Cyclical",LN
+TW/ LN Equity,"Consumer, Cyclical",LN
+UBSG SW Equity,Financial,SW
+UCG IM Equity,Financial,IM
+UHR SW Equity,"Consumer, Cyclical",SW
+ULVR LN Equity,"Consumer, Non-cyclical",LN
+UNI IM Equity,Financial,IM
+US IM Equity,Financial,IM
+UTG LN Equity,Financial,LN
+UU/ LN Equity,Utilities,LN
+VER AV Equity,Utilities,AV
+VIFN SW Equity,"Consumer, Non-cyclical",SW
+VOD LN Equity,Communications,LN
+VOE AV Equity,Basic Materials,AV
+WEIR LN Equity,Industrial,LN
+WIZZ LN Equity,"Consumer, Cyclical",LN
+WPP LN Equity,Communications,LN
+WTB LN Equity,"Consumer, Cyclical",LN
+ZURN SW Equity,Financial,SW
+ADS GY Equity,"Consumer, Cyclical",GY
+ALV GY Equity,Financial,GY
+BAS GY Equity,Basic Materials,GY
+BAYN GY Equity,"Consumer, Non-cyclical",GY
+BMW GY Equity,"Consumer, Cyclical",GY
+DAI GY Equity,"Consumer, Cyclical",GY
+DB1 GY Equity,Financial,GY
+DPW GY Equity,Industrial,GY
+DTE GY Equity,Communications,GY
+FRE GY Equity,"Consumer, Non-cyclical",GY
+MUV2 GY Equity,Financial,GY
+SAP GY Equity,Technology,GY
+SIE GY Equity,Industrial,GY
+VOW3 GY Equity,"Consumer, Cyclical",GY
+ANTO LN Equity,Basic Materials,LN
+BHP LN Equity,Basic Materials,LN
+CCL LN Equity,"Consumer, Cyclical",LN
+CRH LN Equity,Industrial,LN
+EVR LN Equity,Basic Materials,LN
+FRES LN Equity,Basic Materials,LN
+HIK LN Equity,"Consumer, Non-cyclical",LN
+HSX LN Equity,Financial,LN
+NMC LN Equity,"Consumer, Non-cyclical",LN
+POLY LN Equity,Basic Materials,LN
+RDSB LN Equity,Energy,LN
+SKG LN Equity,Basic Materials,LN
+SMT LN Equity,Financial,LN
+1COV GY Equity,Basic Materials,GY
+BEI GY Equity,"Consumer, Non-cyclical",GY
+CON GY Equity,"Consumer, Cyclical",GY
+DBK GY Equity,Financial,GY
+EOAN GY Equity,Utilities,GY
+FME GY Equity,"Consumer, Non-cyclical",GY
+HEI GY Equity,Industrial,GY
+HEN3 GY Equity,"Consumer, Non-cyclical",GY
+IFX GY Equity,Technology,GY
+LHA GY Equity,"Consumer, Cyclical",GY
+MRK GY Equity,"Consumer, Non-cyclical",GY
+MTX GY Equity,Industrial,GY
+RWE GY Equity,Utilities,GY
+VNA GY Equity,Financial,GY
+WDI GY Equity,"Consumer, Non-cyclical",GY
+ABBN SE Equity,Industrial,SE
+ADEN SE Equity,"Consumer, Non-cyclical",SE
+CFR SE Equity,"Consumer, Cyclical",SE
+CSGN SE Equity,Financial,SE
+GEBN SE Equity,Industrial,SE
+GIVN SE Equity,Basic Materials,SE
+LHN SE Equity,Industrial,SE
+LONN SE Equity,"Consumer, Non-cyclical",SE
+NESN SE Equity,"Consumer, Non-cyclical",SE
+NOVN SE Equity,"Consumer, Non-cyclical",SE
+ROG SE Equity,"Consumer, Non-cyclical",SE
+SCMN SE Equity,Communications,SE
+SGSN SE Equity,"Consumer, Non-cyclical",SE
+SIKA SE Equity,Industrial,SE
+SLHN SE Equity,Financial,SE
+SREN SE Equity,Financial,SE
+UBSG SE Equity,Financial,SE
+UHR SE Equity,"Consumer, Cyclical",SE
+ZURN SE Equity,Financial,SE
+ACX SM Equity,Basic Materials,SM
+ANA SM Equity,Industrial,SM
+CIE SM Equity,"Consumer, Cyclical",SM
+ENC SM Equity,Basic Materials,SM
+IAG SM Equity,"Consumer, Cyclical",SM
+IDR SM Equity,Technology,SM
+MAS SM Equity,Communications,SM
+MEL SM Equity,"Consumer, Cyclical",SM
+MTS SM Equity,Basic Materials,SM
+TL5 SM Equity,Communications,SM
+VIS SM Equity,"Consumer, Non-cyclical",SM
+1332 JT Equity,"Consumer, Non-cyclical",JT
+1333 JT Equity,"Consumer, Non-cyclical",JT
+1605 JT Equity,Energy,JT
+1721 JT Equity,Industrial,JT
+1801 JT Equity,Industrial,JT
+1802 JT Equity,Industrial,JT
+1803 JT Equity,Industrial,JT
+1808 JT Equity,"Consumer, Cyclical",JT
+1812 JT Equity,Industrial,JT
+1925 JT Equity,"Consumer, Cyclical",JT
+1928 JT Equity,"Consumer, Cyclical",JT
+1963 JT Equity,Industrial,JT
+2002 JT Equity,"Consumer, Non-cyclical",JT
+2269 JT Equity,"Consumer, Non-cyclical",JT
+2282 JT Equity,"Consumer, Non-cyclical",JT
+2413 JT Equity,Communications,JT
+2432 JT Equity,Technology,JT
+2501 JT Equity,"Consumer, Non-cyclical",JT
+2502 JT Equity,"Consumer, Non-cyclical",JT
+2503 JT Equity,"Consumer, Non-cyclical",JT
+2531 JT Equity,"Consumer, Non-cyclical",JT
+2768 JT Equity,"Consumer, Cyclical",JT
+2801 JT Equity,"Consumer, Non-cyclical",JT
+2802 JT Equity,"Consumer, Non-cyclical",JT
+2871 JT Equity,"Consumer, Non-cyclical",JT
+2914 JT Equity,"Consumer, Non-cyclical",JT
+3086 JT Equity,"Consumer, Cyclical",JT
+3099 JT Equity,"Consumer, Cyclical",JT
+3101 JT Equity,Industrial,JT
+3103 JT Equity,"Consumer, Cyclical",JT
+3105 JT Equity,Communications,JT
+3289 JT Equity,Financial,JT
+3382 JT Equity,"Consumer, Non-cyclical",JT
+3401 JT Equity,"Consumer, Cyclical",JT
+3402 JT Equity,Basic Materials,JT
+3405 JT Equity,Basic Materials,JT
+3407 JT Equity,Basic Materials,JT
+3436 JT Equity,Technology,JT
+3861 JT Equity,Basic Materials,JT
+3863 JT Equity,Basic Materials,JT
+4004 JT Equity,Basic Materials,JT
+4005 JT Equity,Basic Materials,JT
+4021 JT Equity,Basic Materials,JT
+4042 JT Equity,Basic Materials,JT
+4043 JT Equity,Basic Materials,JT
+4061 JT Equity,Basic Materials,JT
+4063 JT Equity,Basic Materials,JT
+4151 JT Equity,"Consumer, Non-cyclical",JT
+4183 JT Equity,Basic Materials,JT
+4188 JT Equity,Basic Materials,JT
+4208 JT Equity,Basic Materials,JT
+4272 JT Equity,Basic Materials,JT
+4324 JT Equity,Communications,JT
+4452 JT Equity,"Consumer, Non-cyclical",JT
+4502 JT Equity,"Consumer, Non-cyclical",JT
+4503 JT Equity,"Consumer, Non-cyclical",JT
+4506 JT Equity,"Consumer, Non-cyclical",JT
+4507 JT Equity,"Consumer, Non-cyclical",JT
+4519 JT Equity,"Consumer, Non-cyclical",JT
+4523 JT Equity,"Consumer, Non-cyclical",JT
+4543 JT Equity,"Consumer, Non-cyclical",JT
+4568 JT Equity,"Consumer, Non-cyclical",JT
+4578 JT Equity,"Consumer, Non-cyclical",JT
+4631 JT Equity,Basic Materials,JT
+4689 JT Equity,Communications,JT
+4704 JT Equity,Communications,JT
+4751 JT Equity,Communications,JT
+4755 JT Equity,Communications,JT
+4901 JT Equity,Industrial,JT
+4902 JT Equity,Technology,JT
+4911 JT Equity,"Consumer, Non-cyclical",JT
+5019 JT Equity,Energy,JT
+5020 JT Equity,Energy,JT
+5101 JT Equity,"Consumer, Cyclical",JT
+5108 JT Equity,"Consumer, Cyclical",JT
+5201 JT Equity,Industrial,JT
+5202 JT Equity,Industrial,JT
+5214 JT Equity,Industrial,JT
+5232 JT Equity,Industrial,JT
+5233 JT Equity,Industrial,JT
+5301 JT Equity,Basic Materials,JT
+5332 JT Equity,Industrial,JT
+5333 JT Equity,"Consumer, Cyclical",JT
+5401 JT Equity,Basic Materials,JT
+5406 JT Equity,Basic Materials,JT
+5411 JT Equity,Basic Materials,JT
+5541 JT Equity,Basic Materials,JT
+5631 JT Equity,Basic Materials,JT
+5703 JT Equity,Basic Materials,JT
+5706 JT Equity,Basic Materials,JT
+5707 JT Equity,Industrial,JT
+5711 JT Equity,Basic Materials,JT
+5713 JT Equity,Basic Materials,JT
+5714 JT Equity,Basic Materials,JT
+5801 JT Equity,Industrial,JT
+5802 JT Equity,"Consumer, Cyclical",JT
+5803 JT Equity,Industrial,JT
+5901 JT Equity,Industrial,JT
+6098 JT Equity,"Consumer, Non-cyclical",JT
+6103 JT Equity,Industrial,JT
+6113 JT Equity,Industrial,JT
+6178 JT Equity,Financial,JT
+6301 JT Equity,Industrial,JT
+6302 JT Equity,Industrial,JT
+6305 JT Equity,Industrial,JT
+6326 JT Equity,Industrial,JT
+6361 JT Equity,Industrial,JT
+6367 JT Equity,Industrial,JT
+6471 JT Equity,Industrial,JT
+6472 JT Equity,Industrial,JT
+6473 JT Equity,"Consumer, Cyclical",JT
+6479 JT Equity,Industrial,JT
+6501 JT Equity,Industrial,JT
+6503 JT Equity,Industrial,JT
+6504 JT Equity,Industrial,JT
+6506 JT Equity,Industrial,JT
+6645 JT Equity,Industrial,JT
+6674 JT Equity,Industrial,JT
+6701 JT Equity,Technology,JT
+6702 JT Equity,Technology,JT
+6703 JT Equity,Communications,JT
+6724 JT Equity,Technology,JT
+6752 JT Equity,"Consumer, Cyclical",JT
+6758 JT Equity,"Consumer, Cyclical",JT
+6762 JT Equity,Industrial,JT
+6770 JT Equity,Industrial,JT
+6841 JT Equity,Industrial,JT
+6857 JT Equity,Technology,JT
+6902 JT Equity,"Consumer, Cyclical",JT
+6952 JT Equity,Industrial,JT
+6954 JT Equity,Industrial,JT
+6971 JT Equity,Industrial,JT
+6976 JT Equity,Industrial,JT
+6988 JT Equity,Basic Materials,JT
+7003 JT Equity,Industrial,JT
+7004 JT Equity,Industrial,JT
+7011 JT Equity,Industrial,JT
+7012 JT Equity,Industrial,JT
+7013 JT Equity,Industrial,JT
+7186 JT Equity,Financial,JT
+7201 JT Equity,"Consumer, Cyclical",JT
+7202 JT Equity,"Consumer, Cyclical",JT
+7203 JT Equity,"Consumer, Cyclical",JT
+7205 JT Equity,"Consumer, Cyclical",JT
+7211 JT Equity,"Consumer, Cyclical",JT
+7261 JT Equity,"Consumer, Cyclical",JT
+7267 JT Equity,"Consumer, Cyclical",JT
+7269 JT Equity,"Consumer, Cyclical",JT
+7270 JT Equity,"Consumer, Cyclical",JT
+7272 JT Equity,"Consumer, Cyclical",JT
+7731 JT Equity,Industrial,JT
+7733 JT Equity,"Consumer, Non-cyclical",JT
+7735 JT Equity,Industrial,JT
+7751 JT Equity,Technology,JT
+7752 JT Equity,Technology,JT
+7762 JT Equity,"Consumer, Cyclical",JT
+7832 JT Equity,"Consumer, Cyclical",JT
+7911 JT Equity,"Consumer, Non-cyclical",JT
+7912 JT Equity,"Consumer, Non-cyclical",JT
+7951 JT Equity,"Consumer, Cyclical",JT
+8001 JT Equity,"Consumer, Cyclical",JT
+8002 JT Equity,"Consumer, Cyclical",JT
+8015 JT Equity,"Consumer, Cyclical",JT
+8028 JT Equity,"Consumer, Cyclical",JT
+8031 JT Equity,"Consumer, Cyclical",JT
+8035 JT Equity,Technology,JT
+8053 JT Equity,"Consumer, Cyclical",JT
+8058 JT Equity,"Consumer, Cyclical",JT
+8233 JT Equity,"Consumer, Cyclical",JT
+8252 JT Equity,"Consumer, Cyclical",JT
+8253 JT Equity,Financial,JT
+8267 JT Equity,"Consumer, Non-cyclical",JT
+8303 JT Equity,Financial,JT
+8304 JT Equity,Financial,JT
+8306 JT Equity,Financial,JT
+8308 JT Equity,Financial,JT
+8309 JT Equity,Financial,JT
+8316 JT Equity,Financial,JT
+8331 JT Equity,Financial,JT
+8354 JT Equity,Financial,JT
+8355 JT Equity,Financial,JT
+8411 JT Equity,Financial,JT
+8601 JT Equity,Financial,JT
+8604 JT Equity,Financial,JT
+8628 JT Equity,Financial,JT
+8630 JT Equity,Financial,JT
+8725 JT Equity,Financial,JT
+8729 JT Equity,Financial,JT
+8750 JT Equity,Financial,JT
+8766 JT Equity,Financial,JT
+8795 JT Equity,Financial,JT
+8801 JT Equity,Financial,JT
+8802 JT Equity,Financial,JT
+8804 JT Equity,Financial,JT
+8830 JT Equity,Financial,JT
+9001 JT Equity,Industrial,JT
+9005 JT Equity,Industrial,JT
+9007 JT Equity,Industrial,JT
+9008 JT Equity,Industrial,JT
+9009 JT Equity,Industrial,JT
+9020 JT Equity,Industrial,JT
+9021 JT Equity,Industrial,JT
+9022 JT Equity,Industrial,JT
+9062 JT Equity,Industrial,JT
+9064 JT Equity,Industrial,JT
+9101 JT Equity,Industrial,JT
+9104 JT Equity,Industrial,JT
+9107 JT Equity,Industrial,JT
+9202 JT Equity,"Consumer, Cyclical",JT
+9301 JT Equity,Industrial,JT
+9412 JT Equity,Communications,JT
+9432 JT Equity,Communications,JT
+9433 JT Equity,Communications,JT
+9437 JT Equity,Communications,JT
+9501 JT Equity,Utilities,JT
+9502 JT Equity,Utilities,JT
+9503 JT Equity,Utilities,JT
+9531 JT Equity,Utilities,JT
+9532 JT Equity,Utilities,JT
+9602 JT Equity,"Consumer, Cyclical",JT
+9613 JT Equity,Technology,JT
+9735 JT Equity,"Consumer, Non-cyclical",JT
+9766 JT Equity,Technology,JT
+9983 JT Equity,"Consumer, Cyclical",JT
+9984 JT Equity,Communications,JT
+600000 CH Equity,Financial,CH
+600004 CH Equity,Industrial,CH
+600009 CH Equity,Industrial,CH
+600010 CH Equity,Basic Materials,CH
+600011 CH Equity,Utilities,CH
+600015 CH Equity,Financial,CH
+600016 CH Equity,Financial,CH
+600018 CH Equity,"Consumer, Non-cyclical",CH
+600019 CH Equity,Basic Materials,CH
+600023 CH Equity,Utilities,CH
+600027 CH Equity,Utilities,CH
+600028 CH Equity,Energy,CH
+600029 CH Equity,"Consumer, Cyclical",CH
+600030 CH Equity,Financial,CH
+600031 CH Equity,Industrial,CH
+600036 CH Equity,Financial,CH
+600038 CH Equity,Industrial,CH
+600048 CH Equity,Financial,CH
+600050 CH Equity,Communications,CH
+600061 CH Equity,Financial,CH
+600066 CH Equity,"Consumer, Cyclical",CH
+600068 CH Equity,Industrial,CH
+600085 CH Equity,"Consumer, Non-cyclical",CH
+600089 CH Equity,Industrial,CH
+600100 CH Equity,Technology,CH
+600104 CH Equity,"Consumer, Cyclical",CH
+600109 CH Equity,Financial,CH
+600111 CH Equity,Basic Materials,CH
+600115 CH Equity,"Consumer, Cyclical",CH
+600118 CH Equity,Communications,CH
+600153 CH Equity,Industrial,CH
+600170 CH Equity,Industrial,CH
+600176 CH Equity,Industrial,CH
+600177 CH Equity,"Consumer, Cyclical",CH
+600188 CH Equity,Energy,CH
+600196 CH Equity,"Consumer, Non-cyclical",CH
+600208 CH Equity,Financial,CH
+600219 CH Equity,Basic Materials,CH
+600221 CH Equity,"Consumer, Cyclical",CH
+600233 CH Equity,Industrial,CH
+600271 CH Equity,Technology,CH
+600276 CH Equity,"Consumer, Non-cyclical",CH
+600297 CH Equity,"Consumer, Cyclical",CH
+600299 CH Equity,Basic Materials,CH
+600309 CH Equity,Basic Materials,CH
+600332 CH Equity,"Consumer, Non-cyclical",CH
+600339 CH Equity,Industrial,CH
+600340 CH Equity,Financial,CH
+600352 CH Equity,Basic Materials,CH
+600362 CH Equity,Basic Materials,CH
+600369 CH Equity,Financial,CH
+600372 CH Equity,Industrial,CH
+600383 CH Equity,Financial,CH
+600390 CH Equity,Financial,CH
+600398 CH Equity,"Consumer, Cyclical",CH
+600406 CH Equity,Industrial,CH
+600415 CH Equity,Diversified,CH
+600436 CH Equity,"Consumer, Non-cyclical",CH
+600438 CH Equity,"Consumer, Non-cyclical",CH
+600482 CH Equity,Industrial,CH
+600487 CH Equity,Communications,CH
+600489 CH Equity,Basic Materials,CH
+600498 CH Equity,Communications,CH
+600516 CH Equity,Industrial,CH
+600519 CH Equity,"Consumer, Non-cyclical",CH
+600522 CH Equity,Communications,CH
+600535 CH Equity,"Consumer, Non-cyclical",CH
+600547 CH Equity,Basic Materials,CH
+600566 CH Equity,"Consumer, Non-cyclical",CH
+600570 CH Equity,Technology,CH
+600583 CH Equity,Energy,CH
+600585 CH Equity,Industrial,CH
+600588 CH Equity,Technology,CH
+600606 CH Equity,Financial,CH
+600637 CH Equity,"Consumer, Cyclical",CH
+600660 CH Equity,"Consumer, Cyclical",CH
+600663 CH Equity,Financial,CH
+600674 CH Equity,Utilities,CH
+600688 CH Equity,Basic Materials,CH
+600690 CH Equity,"Consumer, Cyclical",CH
+600703 CH Equity,Technology,CH
+600704 CH Equity,"Consumer, Cyclical",CH
+600705 CH Equity,Diversified,CH
+600741 CH Equity,"Consumer, Cyclical",CH
+600760 CH Equity,Industrial,CH
+600795 CH Equity,Utilities,CH
+600809 CH Equity,"Consumer, Non-cyclical",CH
+600816 CH Equity,Financial,CH
+600837 CH Equity,Financial,CH
+600867 CH Equity,"Consumer, Non-cyclical",CH
+600886 CH Equity,Utilities,CH
+600887 CH Equity,"Consumer, Non-cyclical",CH
+600893 CH Equity,Industrial,CH
+600900 CH Equity,Utilities,CH
+600919 CH Equity,Financial,CH
+600926 CH Equity,Financial,CH
+600958 CH Equity,Financial,CH
+600977 CH Equity,"Consumer, Cyclical",CH
+600998 CH Equity,"Consumer, Non-cyclical",CH
+600999 CH Equity,Financial,CH
+601006 CH Equity,Industrial,CH
+601009 CH Equity,Financial,CH
+601012 CH Equity,Energy,CH
+601018 CH Equity,"Consumer, Non-cyclical",CH
+601021 CH Equity,"Consumer, Cyclical",CH
+601088 CH Equity,Energy,CH
+601111 CH Equity,"Consumer, Cyclical",CH
+601117 CH Equity,Industrial,CH
+601155 CH Equity,Financial,CH
+601166 CH Equity,Financial,CH
+601169 CH Equity,Financial,CH
+601186 CH Equity,Industrial,CH
+601198 CH Equity,Financial,CH
+601211 CH Equity,Financial,CH
+601216 CH Equity,Basic Materials,CH
+601225 CH Equity,Energy,CH
+601229 CH Equity,Financial,CH
+601238 CH Equity,"Consumer, Cyclical",CH
+601288 CH Equity,Financial,CH
+601318 CH Equity,Financial,CH
+601328 CH Equity,Financial,CH
+601336 CH Equity,Financial,CH
+601360 CH Equity,Communications,CH
+601377 CH Equity,Financial,CH
+601390 CH Equity,Industrial,CH
+601398 CH Equity,Financial,CH
+601555 CH Equity,Financial,CH
+601600 CH Equity,Basic Materials,CH
+601601 CH Equity,Financial,CH
+601607 CH Equity,"Consumer, Cyclical",CH
+601618 CH Equity,Industrial,CH
+601628 CH Equity,Financial,CH
+601633 CH Equity,"Consumer, Cyclical",CH
+601668 CH Equity,Industrial,CH
+601669 CH Equity,Industrial,CH
+601688 CH Equity,Financial,CH
+601766 CH Equity,Industrial,CH
+601788 CH Equity,Financial,CH
+601800 CH Equity,Industrial,CH
+601808 CH Equity,Energy,CH
+601818 CH Equity,Financial,CH
+601857 CH Equity,Energy,CH
+601877 CH Equity,Industrial,CH
+601888 CH Equity,"Consumer, Cyclical",CH
+601898 CH Equity,Energy,CH
+601899 CH Equity,Basic Materials,CH
+601901 CH Equity,Financial,CH
+601919 CH Equity,Industrial,CH
+601933 CH Equity,"Consumer, Non-cyclical",CH
+601939 CH Equity,Financial,CH
+601985 CH Equity,Utilities,CH
+601988 CH Equity,Financial,CH
+601989 CH Equity,Industrial,CH
+601992 CH Equity,Industrial,CH
+601997 CH Equity,Financial,CH
+601998 CH Equity,Financial,CH
+603019 CH Equity,Technology,CH
+603160 CH Equity,Technology,CH
+603288 CH Equity,"Consumer, Non-cyclical",CH
+603799 CH Equity,Basic Materials,CH
+603858 CH Equity,"Consumer, Non-cyclical",CH
+603993 CH Equity,Basic Materials,CH
+1 HK Equity,Diversified,HK
+101 HK Equity,Financial,HK
+1038 HK Equity,Industrial,HK
+1044 HK Equity,"Consumer, Non-cyclical",HK
+1088 HK Equity,Energy,HK
+1093 HK Equity,"Consumer, Non-cyclical",HK
+11 HK Equity,Financial,HK
+1109 HK Equity,Financial,HK
+1113 HK Equity,Financial,HK
+1177 HK Equity,"Consumer, Non-cyclical",HK
+12 HK Equity,Financial,HK
+1299 HK Equity,Financial,HK
+1398 HK Equity,Financial,HK
+151 HK Equity,"Consumer, Non-cyclical",HK
+16 HK Equity,Financial,HK
+17 HK Equity,Financial,HK
+175 HK Equity,"Consumer, Cyclical",HK
+19 HK Equity,Diversified,HK
+1928 HK Equity,"Consumer, Cyclical",HK
+2 HK Equity,Utilities,HK
+2007 HK Equity,Financial,HK
+2018 HK Equity,Industrial,HK
+2313 HK Equity,"Consumer, Cyclical",HK
+2318 HK Equity,Financial,HK
+2319 HK Equity,"Consumer, Non-cyclical",HK
+2382 HK Equity,Industrial,HK
+2388 HK Equity,Financial,HK
+2628 HK Equity,Financial,HK
+267 HK Equity,Financial,HK
+27 HK Equity,"Consumer, Cyclical",HK
+288 HK Equity,"Consumer, Non-cyclical",HK
+3 HK Equity,Utilities,HK
+3328 HK Equity,Financial,HK
+386 HK Equity,Energy,HK
+388 HK Equity,Financial,HK
+3988 HK Equity,Financial,HK
+5 HK Equity,Financial,HK
+6 HK Equity,Utilities,HK
+66 HK Equity,Industrial,HK
+669 HK Equity,Industrial,HK
+688 HK Equity,Financial,HK
+700 HK Equity,Communications,HK
+762 HK Equity,Communications,HK
+823 HK Equity,Financial,HK
+83 HK Equity,Financial,HK
+857 HK Equity,Energy,HK
+883 HK Equity,Energy,HK
+939 HK Equity,Financial,HK
+941 HK Equity,Communications,HK
+000100 KS Equity,"Consumer, Non-cyclical",KS
+000120 KS Equity,Industrial,KS
+000210 KS Equity,Industrial,KS
+000270 KS Equity,"Consumer, Cyclical",KS
+000660 KS Equity,Technology,KS
+000720 KS Equity,Industrial,KS
+000810 KS Equity,Financial,KS
+001040 KS Equity,Diversified,KS
+001450 KS Equity,Financial,KS
+002380 KS Equity,Basic Materials,KS
+002790 KS Equity,"Consumer, Non-cyclical",KS
+003550 KS Equity,"Consumer, Cyclical",KS
+003670 KS Equity,Industrial,KS
+004020 KS Equity,Basic Materials,KS
+004170 KS Equity,"Consumer, Cyclical",KS
+004370 KS Equity,"Consumer, Non-cyclical",KS
+004800 KS Equity,Communications,KS
+004990 KS Equity,"Consumer, Non-cyclical",KS
+005380 KS Equity,"Consumer, Cyclical",KS
+005490 KS Equity,Basic Materials,KS
+005830 KS Equity,Financial,KS
+005930 KS Equity,Technology,KS
+006400 KS Equity,Communications,KS
+006650 KS Equity,Basic Materials,KS
+006800 KS Equity,Financial,KS
+007070 KS Equity,"Consumer, Cyclical",KS
+008560 KS Equity,Financial,KS
+008930 KS Equity,"Consumer, Non-cyclical",KS
+009150 KS Equity,Industrial,KS
+009240 KS Equity,"Consumer, Cyclical",KS
+009540 KS Equity,Industrial,KS
+009830 KS Equity,Basic Materials,KS
+010060 KS Equity,Energy,KS
+010130 KS Equity,Basic Materials,KS
+010950 KS Equity,Energy,KS
+011070 KS Equity,Industrial,KS
+011170 KS Equity,Basic Materials,KS
+011780 KS Equity,Basic Materials,KS
+012330 KS Equity,"Consumer, Cyclical",KS
+012510 KS Equity,Technology,KS
+012750 KS Equity,"Consumer, Non-cyclical",KS
+015760 KS Equity,Utilities,KS
+016360 KS Equity,Financial,KS
+017670 KS Equity,Communications,KS
+018260 KS Equity,Technology,KS
+018880 KS Equity,"Consumer, Cyclical",KS
+021240 KS Equity,"Consumer, Cyclical",KS
+024110 KS Equity,Financial,KS
+028260 KS Equity,"Consumer, Cyclical",KS
+029780 KS Equity,Financial,KS
+030000 KS Equity,Communications,KS
+030200 KS Equity,Communications,KS
+032640 KS Equity,Communications,KS
+032830 KS Equity,Financial,KS
+033780 KS Equity,"Consumer, Non-cyclical",KS
+034220 KS Equity,Industrial,KS
+034730 KS Equity,Energy,KS
+035250 KS Equity,"Consumer, Cyclical",KS
+035420 KS Equity,Communications,KS
+035720 KS Equity,Communications,KS
+035760 KS Equity,"Consumer, Cyclical",KS
+036490 KS Equity,Industrial,KS
+036570 KS Equity,Communications,KS
+039490 KS Equity,Financial,KS
+047810 KS Equity,Industrial,KS
+048260 KS Equity,"Consumer, Non-cyclical",KS
+051600 KS Equity,Industrial,KS
+051900 KS Equity,"Consumer, Non-cyclical",KS
+051910 KS Equity,Basic Materials,KS
+055550 KS Equity,Financial,KS
+056190 KS Equity,Industrial,KS
+066570 KS Equity,"Consumer, Cyclical",KS
+068270 KS Equity,"Consumer, Non-cyclical",KS
+069960 KS Equity,"Consumer, Cyclical",KS
+071050 KS Equity,Financial,KS
+078340 KS Equity,Technology,KS
+078930 KS Equity,"Consumer, Non-cyclical",KS
+081660 KS Equity,"Consumer, Cyclical",KS
+086280 KS Equity,Industrial,KS
+086790 KS Equity,Financial,KS
+086900 KS Equity,"Consumer, Non-cyclical",KS
+090430 KS Equity,"Consumer, Non-cyclical",KS
+096770 KS Equity,Energy,KS
+097950 KS Equity,"Consumer, Non-cyclical",KS
+098460 KS Equity,Industrial,KS
+105560 KS Equity,Financial,KS
+111770 KS Equity,"Consumer, Cyclical",KS
+114090 KS Equity,"Consumer, Cyclical",KS
+128940 KS Equity,"Consumer, Non-cyclical",KS
+138930 KS Equity,Financial,KS
+139480 KS Equity,"Consumer, Cyclical",KS
+145020 KS Equity,"Consumer, Non-cyclical",KS
+161390 KS Equity,"Consumer, Cyclical",KS
+161890 KS Equity,"Consumer, Non-cyclical",KS
+192080 KS Equity,Communications,KS
+192820 KS Equity,"Consumer, Non-cyclical",KS
+316140 KS Equity,Financial,KS
